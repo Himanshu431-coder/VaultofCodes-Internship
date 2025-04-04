@@ -39,7 +39,7 @@ To ensure a smooth setup and execution of the project, please ensure the followi
 1. **Clone the Repository**:  
    Open your terminal or command prompt and run the following command:
    ```bash
-   git clone https://github.com/yourusername/todo-list-python
+   git clone https://github.com/Himanshu431-coder/VaultofCodes-Internship
    ```
 
 2. **Navigate to the Project Directory**:  
