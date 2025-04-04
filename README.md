@@ -85,6 +85,11 @@ todo.py: This is the main script that sets up the graphical user interface (GUI)
 tasks.json: This file is used for persistent storage of tasks. It stores tasks and their completion status in a JSON format, ensuring that tasks remain saved even after the app is closed and reopened.
 
 ---
+
+
+
+
+
 ## **Screenshots**
 1. Main Application Window
 
