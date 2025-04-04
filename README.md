@@ -91,15 +91,18 @@ todo-list-python/
 
 ### 2. **Adding a Task**  
 
-![Task Added](https://example.com/screenshot-task-added.png)
+![Screenshot (41)](https://github.com/user-attachments/assets/443e6690-e8ed-4de1-af2a-f991b0a8898f)
+
 
 ### 3. **Marking Task as Complete**  
 
-![Task Complete](https://example.com/screenshot-task-complete.png)
+![Screenshot (42)](https://github.com/user-attachments/assets/800c1077-20b5-460a-87a7-02ce85f349d2)
 
-### 4. **Random Task Suggestion**  
 
-![Random Task](https://example.com/screenshot-random-task.png)
+### 4. **Delete Task**  
+
+![Screenshot (43)](https://github.com/user-attachments/assets/a0febe1b-1e8f-4573-8e3a-202ab97974e5)
+
 
 ---
 
