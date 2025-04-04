@@ -44,19 +44,20 @@ To ensure a smooth setup and execution of the project, please make sure you have
 2. **Navigate to the Project Directory**:  
    After cloning the repository, change your directory to the project folder:
    ```bash
-   cd todo-list-python
+   cd todo_list
    ```
 
 3. **Install Required Dependencies**:  
    Tkinter is typically bundled with Python, but if it's missing, you can install it via:
    ```bash
-   pip install tk
+   pip install tkinter
    ```
 
 4. **Run the Application**:  
    To run the To-Do List application, execute the following Python script:
    ```bash
-   python todo_list.py
+   python task.py
+   python todo.py
    ```
 
 5. **Use the Application**:  
@@ -89,7 +90,7 @@ tasks.json: This file is used for persistent storage of tasks. It stores tasks a
 
 ### 1. Main Application Window  
 
-![image](https://example.com/screenshot-main.png)
+![Screenshot (40)](https://github.com/user-attachments/assets/5f1ddf64-fb90-4226-8399-2192c10f1e1d)
 
 ### 2. Task Added to the List  
 
