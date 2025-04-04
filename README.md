@@ -85,38 +85,32 @@ todo.py: This is the main script that sets up the graphical user interface (GUI)
 tasks.json: This file is used for persistent storage of tasks. It stores tasks and their completion status in a JSON format, ensuring that tasks remain saved even after the app is closed and reopened.
 
 ---
-
 ## **Screenshots**
+1. Main Application Window
 
-### 1. Main Application Window  
+2. Task Added to the List
 
-![Screenshot (40)](https://github.com/user-attachments/assets/5f1ddf64-fb90-4226-8399-2192c10f1e1d)
+3. Task Marked as Complete
 
-### 2. Task Added to the List  
+4. Random Task Suggestion
 
-![image](https://example.com/screenshot-task-added.png)
-
-### 3. Task Marked as Complete  
-
-![image](https://example.com/screenshot-task-complete.png)
-
----
-
-## **Learning Outcomes**
+Learning Outcomes
 Throughout this internship, I gained significant practical experience in:
-- Designing and building GUI applications using **Tkinter**.
-- Implementing core features like task management and notifications in a to-do list application.
-- Leveraging Python's standard libraries to enhance app functionality, such as using **random** for task suggestions and **MessageBox** for error handling and user interaction.
-- Structuring and organizing code for clean, maintainable projects, making it easy to extend with additional features in the future.
+
+Designing and building GUI applications using Tkinter.
+
+Implementing core features like task management and notifications in a to-do list application.
+
+Leveraging Python's standard libraries to enhance app functionality, such as using random for task suggestions and MessageBox for error handling and user interaction.
+
+Structuring and organizing code for clean, maintainable projects, making it easy to extend with additional features in the future.
 
 This project not only improved my technical skills but also deepened my understanding of how to create applications that are both practical and engaging for end-users.
 
----
+Acknowledgements
+I would like to express my heartfelt gratitude to VaultOfCodes for providing this opportunity to learn and grow through this hands-on project. Their mentorship helped me achieve both personal and technical growth.
 
-## **Acknowledgements**
-I would like to express my heartfelt gratitude to **VaultOfCodes** for providing this opportunity to learn and grow through this hands-on project. Their mentorship helped me achieve both personal and technical growth.
-
-I would also like to thank **Tkinter** for being a powerful tool in creating simple and effective GUI applications, and to **Python** for providing the versatility needed for this project.
+I would also like to thank Tkinter for being a powerful tool in creating simple and effective GUI applications, and to Python for providing the versatility needed for this project.
 
 ---
 
